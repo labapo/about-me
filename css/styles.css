@@ -111,9 +111,9 @@ hr {
 .profile {
   width: 50%;
   margin-top: 15px;
-  margin-left: 400px;
   padding: 10px;
   line-height: 2;
+  display: inline-block;
 }
 
 #lori-headshot {
