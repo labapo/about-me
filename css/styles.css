@@ -1,0 +1,122 @@
+body {
+  text-align: center;
+  padding-top: 20px;
+  font-family: "Merriweather", serif;
+  margin: 0;
+  background-color: #408E91;
+}
+
+h1 {
+  margin-left: 0;
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento", sans-serif;
+  font-size: 562%;
+  color: #245953;
+} 
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  color: #245953;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 30px;
+  left:55%;
+  filter: drop-shadow(20px 10px 4px #b0b0b0);
+}
+
+.bottom-cloud {
+  position: absolute;
+  filter: drop-shadow(20px 10px 4px #b0b0b0);
+
+}
+
+.top-container {
+  padding: 10px;
+  margin: 0;
+}
+
+.middle-container {
+  background-color: #E49393;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+.bottom-container {
+  background-color: #D8D8D8;
+  padding: 10px;
+  margin-top:0;
+}
+
+
+#bottom-hr {
+  margin-top:0;
+}
+
+.mountain {
+  padding: 12px;
+}
+
+.hobby-image {
+  width: 13%;
+  float: left;
+  padding: 20px;
+}
+
+.hobby-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+hr {
+  border-top: dotted;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+  border-color:#EAF6F6; 
+  border-width: 10px;
+  border-collapse: collapse;
+  width: 5%;
+}
+
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #408E91;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #7ea5a6;
+  text-decoration: none;
+}
+
+.links {
+  margin: 25px;
+}
+
+.footer-link {
+  margin: 20px;
+}
+
+.profile {
+  width: 50%;
+  margin-top: 15px;
+  margin-left: 400px;
+  padding: 10px;
+  line-height: 2;
+}
+
+#lori-headshot {
+  width: 25%;
+  margin: 20px;
+}
