@@ -110,7 +110,7 @@ hr {
 
 .profile {
   width: 50%;
-  margin-top: 15px;
+  margin: auto;
   padding: 10px;
   line-height: 2;
   display: inline-block;
